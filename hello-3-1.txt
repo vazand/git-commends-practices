@@ -1,0 +1,2 @@
+this is the 4 th file but after git commit --amend -m "a third commit"
+but the commit sha will be different

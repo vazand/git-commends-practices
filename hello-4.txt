@@ -1,1 +1,7 @@
 created fourth file
+when I merged this with main using just merged
+it created a commit named merge in the main
+so one commit is from develop and another one is from main when merged
+
+now I'm doing 2 commits in develop and checking the same
+so it will create a total of 3 commits including merge commit
